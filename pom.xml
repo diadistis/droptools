@@ -129,7 +129,6 @@
             <modules>
                 <module>dropwizard-jooq</module>
                 <module>dropwizard-redis</module>
-                <module>droptools-example</module>
             </modules>
         </profile>
         <profile>
