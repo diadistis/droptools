@@ -9,7 +9,7 @@
     <parent>
         <artifactId>droptools-parent</artifactId>
         <groupId>com.bendb.dropwizard</groupId>
-        <version>1.1.0-1-SNAPSHOT</version>
+        <version>1.1.5-SNAPSHOT</version>
     </parent>
 
     <artifactId>dropwizard-jooq</artifactId>
@@ -19,7 +19,7 @@
     <description>Addon bundle for Dropwizard to support jOOQ for database access</description>
 
     <properties>
-        <jooq.version>3.10.0</jooq.version>
+        <jooq.version>3.10.7</jooq.version>
     </properties>
 
     <dependencies>
